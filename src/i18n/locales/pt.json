@@ -1,0 +1,27 @@
+{
+  "header": {
+    "newTransaction": "Nova transação",
+    "logoAlt": "Logo Fast Money"
+  },
+  "summary": {
+    "income": "Entradas",
+    "expenses": "Saídas",
+    "total": "Total"
+  },
+  "table": {
+    "title": "Título",
+    "amount": "Valor",
+    "category": "Categoria",
+    "date": "Data"
+  },
+  "modal": {
+    "heading": "Cadastrar Transação",
+    "titlePlaceholder": "Título",
+    "amountPlaceholder": "Valor",
+    "income": "Entrada",
+    "expense": "Saída",
+    "categoryPlaceholder": "Categoria",
+    "submit": "Cadastrar",
+    "closeAlt": "Fechar Modal"
+  }
+}

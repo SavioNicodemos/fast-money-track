@@ -1,0 +1,27 @@
+{
+  "header": {
+    "newTransaction": "New Transaction",
+    "logoAlt": "Fast Money logo"
+  },
+  "summary": {
+    "income": "Income",
+    "expenses": "Expenses",
+    "total": "Total"
+  },
+  "table": {
+    "title": "Title",
+    "amount": "Amount",
+    "category": "Category",
+    "date": "Date"
+  },
+  "modal": {
+    "heading": "New Transaction",
+    "titlePlaceholder": "Title",
+    "amountPlaceholder": "Amount",
+    "income": "Income",
+    "expense": "Expense",
+    "categoryPlaceholder": "Category",
+    "submit": "Register",
+    "closeAlt": "Close modal"
+  }
+}

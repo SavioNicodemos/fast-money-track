@@ -2,6 +2,7 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { createServer, Model } from 'miragejs';
 import { App } from './App';
+import './i18n';
 
 createServer({
   models: {
