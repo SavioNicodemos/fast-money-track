@@ -11,7 +11,7 @@ A personal finance tracker built with React and TypeScript. Register income and 
 - Internationalization (i18n) with automatic browser/OS language detection — English and Portuguese supported out of the box
 - Language toggle in the header to switch between EN and PT manually; preference is persisted in `localStorage`
 - Currency and number formatting derived automatically from the user's locale (e.g. `pt-BR` → BRL, `pt-PT` / `de-DE` → EUR, `en-US` → USD, `en-GB` → GBP)
-- In-memory mock API via MirageJS — no backend required to run locally
+- In-memory mock API via MSW lib — no backend required to run locally
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@ A personal finance tracker built with React and TypeScript. Register income and 
 | Styling | styled-components v6 + polished |
 | i18n | i18next + react-i18next + i18next-browser-languagedetector |
 | HTTP client | Axios |
-| Mock API | MirageJS |
+| Mock API | MSW |
 | Modals | react-modal |
 | SVG handling | vite-plugin-svgr |
 
